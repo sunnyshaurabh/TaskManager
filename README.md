@@ -1,5 +1,5 @@
 # TaskManager
-using H2 as in memory with the following settings
+developed in eclipse using springBoot and H2 as in memory with the following settings
 spring.h2.console.path=/h2
 server.port=8081
 
@@ -8,7 +8,6 @@ spring.datasource.url=jdbc:h2:file:C:\data\sample
 spring.datasource.driver-class-name=org.h2.Driver
 
 kindley use the save config to use this projector change accordingly
-
 ## operations:-
 
 ## H2createTask:-
