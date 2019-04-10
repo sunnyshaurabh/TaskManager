@@ -9,21 +9,21 @@ spring.datasource.driver-class-name=org.h2.Driver
 
 kindley use the save config to use this projector change accordingly
 
-##operations:-
+## operations:-
 
-##H2createTask:-
+## H2createTask:-
 its an post operation with
 
-##taskNum:-for giving a unique id to the task
+## taskNum:-for giving a unique id to the task
 date:- for the task date
 label:- labeling and giving details about task
 priority:- setting the selected priority for the task
 
-##updateInfo:-
+## updateInfo:-
 for updating pre saved tasks
 
-##findTask:- based on the priority entered.
+## findTask:- based on the priority entered.
 
-##getAllTask:- get all the tasks saved.
+## getAllTask:- get all the tasks saved.
 
-##getTaskBeforDate:- get all the tasked saved within two days time span from entered date.
+## getTaskBeforDate:- get all the tasked saved within two days time span from entered date.
